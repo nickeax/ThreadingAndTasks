@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquer", "DivideA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSynchronisation", "ThreadSynchronisation\ThreadSynchronisation.csproj", "{5DBC33AB-9FF9-4FA5-9DCE-CA43A61E7F4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirLineBooking", "AirLineBooking\AirLineBooking.csproj", "{F6C40A37-404A-4DA3-9FDD-5A758DF54360}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5DBC33AB-9FF9-4FA5-9DCE-CA43A61E7F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DBC33AB-9FF9-4FA5-9DCE-CA43A61E7F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DBC33AB-9FF9-4FA5-9DCE-CA43A61E7F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C40A37-404A-4DA3-9FDD-5A758DF54360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C40A37-404A-4DA3-9FDD-5A758DF54360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C40A37-404A-4DA3-9FDD-5A758DF54360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C40A37-404A-4DA3-9FDD-5A758DF54360}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
