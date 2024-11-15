@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquer", "DivideAndConquer\DivideAndConquer.csproj", "{D2FB7B1E-B7B1-4207-BEB2-DDA10BEF0F04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSynchronisation", "ThreadSynchronisation\ThreadSynchronisation.csproj", "{5DBC33AB-9FF9-4FA5-9DCE-CA43A61E7F4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D2FB7B1E-B7B1-4207-BEB2-DDA10BEF0F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2FB7B1E-B7B1-4207-BEB2-DDA10BEF0F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2FB7B1E-B7B1-4207-BEB2-DDA10BEF0F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBC33AB-9FF9-4FA5-9DCE-CA43A61E7F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBC33AB-9FF9-4FA5-9DCE-CA43A61E7F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBC33AB-9FF9-4FA5-9DCE-CA43A61E7F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBC33AB-9FF9-4FA5-9DCE-CA43A61E7F4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
